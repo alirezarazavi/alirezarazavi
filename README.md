@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/_alirezarazavi" target="blank"><img src="https://img.shields.io/twitter/follow/_alirezarazavi?logo=twitter&style=for-the-badge" alt="_alirezarazavi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [alirezarazavi.atbox.io](alirezarazavi.atbox.io)
+- 👨‍💻 All of my projects are available at [http://alirezarazavi.com/projects](http://alirezarazavi.com/projects)
 
 - 📝 I regularly write articles on [https://virgool.io/@alireza](https://virgool.io/@alireza)
 
 - 📫 How to reach me **hi@alirezarazavi.com**
 
-- 📄 Know about my experiences [https://atbox.io/alirezarazavi/resume](https://atbox.io/alirezarazavi/resume)
+- 📄 Know about my experiences [http://alirezarazavi.com](http://alirezarazavi.com)
 
 - ⚡ Fun fact **I think i am funny (but not!)**
 
